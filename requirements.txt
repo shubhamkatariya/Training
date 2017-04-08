@@ -1,0 +1,17 @@
+1) Homebrew install and read - https://coolestguidesontheplanet.com/installing-homebrew-on-os-x-el-capitan-10-11-package-manager-for-unix-apps/
+2) virtual machine installation - https://www.youtube.com/watch?v=rNV5JmxtKP4
+3) python-mysql dependency - brew install mysql-connector-c 
+                                          pip install MySQL-python
+                 for python3-pip install mysqlclient
+4) Hide Show Files apple - defaults write com.apple.finder AppleShowAllFiles YES,
+             defaults write com.apple.finder AppleShowAllFiles NO
+5) JWT authentication django - https://krzysztofzuraw.com/blog/2016/jwt-in-django-application-part-one.html
+
+6) configure celery in django - http://www.marinamele.com/2014/02/how-to-install-celery-on-django-and.html
+
+7) django-celery = https://realpython.com/blog/python/asynchronous-tasks-with-django-and-celery/
+
+8)swagger-http://petstore.swagger.io/, http://swagger.io/docs/swagger-tools/
+9) riding big data - http://ridingbigdata.blogspot.in/2013/07/day-3-warm-up-so-whats-problem-what-are.html#comment-form
+10) install mysql guide - https://dev.mysql.com/doc/refman/5.6/en/osx-installation-pkg.html
+11) flasgger doc - https://github.com/rochacbruno/flasgger
